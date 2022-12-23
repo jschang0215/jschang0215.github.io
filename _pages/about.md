@@ -18,9 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am an undergraduate student majoring in [Computer Science and Engineering](https://cse.snu.ac.kr/en) at Seoul National University. I am also a undergraduate research intern at [AI-Soc Lab](https://ai-soc.github.io/index.html), Kyungpook National University, advised by Prof. [Daejin Park](https://ai-soc.github.io/l_professor.html). My research interests include compiler optimization and dependable system design using machine learning approaches. I am a recipient of the [Presidential Science Scholarship](https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship05_05_01) funded by the Korea Student Aid Foundation. I graduated from [Daegu Science High School](http://www.ts.hs.kr/) as a valedictorian.
+Hi, I am an undergraduate student majoring Computer Science and Engineering at [Seoul National University](https://en.snu.ac.kr/index.html). I ~~am~~ was also an undergraduate research intern at [AI-Soc Lab](https://ai-soc.github.io/index.html), Kyungpook National University, advised by Prof. [Daejin Park](https://ai-soc.github.io/l_professor.html). My research interests include compiler optimization and dependable system design using machine learning approaches. I am a recipient of the [Presidential Science Scholarship](https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship05_05_01) funded by the Korea Student Aid Foundation. I graduated from [Daegu Science High School](http://www.ts.hs.kr/) as a valedictorian.
 
-[Google Scholar](https://scholar.google.com/)
+[Google Scholar](https://scholar.google.com/citations?user=l6QbUegAAAAJ&hl=en)
 
 [Github](https://github.com/jschang0215)
 
