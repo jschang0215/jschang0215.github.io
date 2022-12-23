@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://cse.snu.ac.kr/en'>Seoul National University</a>. Deptartment of Computer Science and Engineering
+subtitle: <a href='https://en.snu.ac.kr/index.html'>Seoul National University</a>. <a href='https://cse.snu.ac.kr/en'>Deptartment of Computer Science and Engineering</a>
 
 profile:
   align: right
