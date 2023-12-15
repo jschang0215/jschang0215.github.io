@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-12-31 20:00:00-0400
+date: 2022-07-06 20:00:00-0400
 inline: true
 ---
 
-[One paper](https://www.mdpi.com/2079-9292/11/1/139) (first author) accepted to Electronics (**SCIE Q2**)
+[One paper](https://ieeexplore.ieee.org/abstract/document/9934995) (first author) accepted to EMSOFT 2022 WiP

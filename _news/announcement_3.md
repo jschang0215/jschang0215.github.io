@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-07-06 20:00:00-0400
+date: 2023-07-04 20:00:00-0400
 inline: true
 ---
 
-[One paper](https://ieeexplore.ieee.org/abstract/document/9934995) (first author) accepted to EMSOFT 2022 WiP (**TOP**)
+[One paper](https://ieeexplore.ieee.org/abstract/document/10316388) (first author) accepted to EMSOFT 2023 WiP

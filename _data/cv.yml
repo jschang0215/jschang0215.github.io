@@ -5,7 +5,6 @@
       institution: Seoul National University, Dept. Computer Science and Engineering
       year: 2025
       description:
-        - GPA 4.24 / 4.3
         - Recipient of the Presidential Science Scholarship ($45,000 over 4yr)
     - title: Daegu Science High School
       institution: Valedictorian
@@ -14,18 +13,17 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Undergraduate Research Assistant
+    - title: Undergraduate Research Intern
+      institution: SCALE Lab, Seoul National University
+      year: 2023 - 2024
+      description:
+        - OS support of tiered memory system
+    - title: Undergraduate Research Intern
       institution: AI-SoC Lab, Kyungpook National University
       year: 2021 - 2022
       description:
-        - Compiler Optimization with ML
+        - Machine learning compiler optimization
         - Fault Detection
-        - Lightweight ML
-    - title: Research Intern
-      institution: AI-SoC Lab, Kyungpook National University
-      year: 2018 - 2019
-      description:
-        - Research Intern as Daegu Science High School research program
 
 - title: Honors and Awards
   type: time_table
@@ -38,19 +36,6 @@
       items: 
         - Hansung Scholarship ($10000 over 2 years)
         - Awarded to top 200 high school students in Korea
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Compiler Optimization with ML
-      items: 
-        - LLVM flag optimization using RL for low-power machine code generation
-    - title: Fault Detection in Embedded System
-      items:
-        - CFE and SE detection algorithm for AI-embedded system
-    - title: Lightweight ML models
-      items:
-        - Lightweight ML model for human activity recognition
 
 - title: Other Interests
   type: list
