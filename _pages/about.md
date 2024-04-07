@@ -7,11 +7,7 @@ subtitle: <a href='https://en.snu.ac.kr/index.html'>Seoul National University</a
 profile:
   align: right
   image: jsjang.jpg
-  image_cicular: false # crops the image to make it circular
-  # address: >
-  #   <p>Build 301</p>
-  #   <p>Gwanak-ro, Gwanak-gu, Seoul, 08826</p>
-  #   <p>Seoul, Republic of Korea</p>
+  image_cicular: true # crops the image to make it circular
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
