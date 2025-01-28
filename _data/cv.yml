@@ -4,7 +4,8 @@
     - title: Bachelor of Science
       institution: Seoul National University, Dept. Computer Science and Engineering
       description:
-        - Including 1.5 year (2024.07 - 2026.01) of mandatory miltiary service
+        - GPA: 4.16/4.30
+        - Including 18 months of mandatory military service (2024.07 - 2026.01).
       year: 2021 - 2026
     - title: Daegu Science High School
       institution: 
@@ -14,30 +15,35 @@
   type: time_table
   contents:
     - title: Undergraduate Research Intern
-      institution: SCALable Computer Architecture Laboratory, Seoul National University
-      year: 2023 - 2024
+      institution: Scalable Computer Architecture Lab, Seoul National University
+      year: 2023.01 - 2024.06
       description:
-        - Prof. Jung Ho Ahn
-        - OS support for tiered memory system
+        - Advisor: Jung Ho Ahn
+        - Proposed reinforcement learning-based OS-level multi-tiered memory management solution.
+        - Accepted to HPDC 2024 (Acceptance rate: 17%).
     - title: Undergraduate Research Intern
       institution: AI-SoC Lab, Kyungpook National University
-      year: 2021 - 2022
+      year: 2019.03 - 2022.10
       description:
-        - Prof. Daejin Park
-        - Machine learning-based compiler optimization
-
+        - Advisor: Daejin Park
+        - Proposed ensemble reinforcement learning model for LLVM transform passes sequence optimization for runtime memory profile reduction (EMSOFT 2023 WiP).
+        - Proposed data-analysis-based online soft errors and control flow errors detection model for deep learning application (EMSOFT 2022 WiP).
+        
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2024 - 2025
+    - year: 2024 - 2026
       items: 
-        - Semiconductor Specialized University Scholarship ($10,000)
+        - Semiconductor Specialized University Scholarship ($8,000 over three semesters)
     - year: 2021 - 2026
       items: 
-        - Presidential Science Scholarship ($45,000 over 8 semesters)
+        - Presidential Science Scholarship (Full tuition and stipend for eight semesters, total $34,000)
     - year: 2018 - 2019
       items: 
-        - Hansung Scholarship ($10,000 over 2 years)
+        - Hansung Scholarship ($8,000 over 2 years)
+    - year: 2021
+      items: 
+        - Alumni Association Award (Graduated with highest honors)
 
 - title: Relevant Courseworks
   type: nested_list
