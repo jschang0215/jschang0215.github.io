@@ -61,3 +61,12 @@
       items:
         - Abstract Algebra, Engineering Mathematics 2 (Probability), Linear & Non-linear Computation Models
         - Mathematical Foundations of Deep Neural Networks
+
+- title: Military Service
+  type: time_table
+  contents:
+    - title: Defense Communication Command
+      institution: Republic of Korea Army
+      description:
+        - Operated military microwave wireless communication system.
+      year: 2024.07 - 2026.01
