@@ -26,11 +26,13 @@ layout: default
               {% capture sizes %}
                 (min-width: 768px) 80px, 10vw
               {% endcapture %}
+              {% assign profile_image_style = "max-width: 80px;" %}
               
               {% include figure.html
                 path = profile_image_path
                 class = profile_image_class
                 sizes = sizes
+                style = profile_image_style
                 alt = page.profile.image
                 cache_bust = true 
               %}
