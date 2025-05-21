@@ -24,14 +24,14 @@ layout: default
               {% endif %}
 
               {% capture sizes %}
-                (min-width: 768px) 80px, 10vw
+                (min-width: 768px) 40px, 5vw
               {% endcapture %}
               
               {% include figure.html
                 path = profile_image_path
                 class = profile_image_class
                 sizes = sizes
-                max-width = "80px"
+                max-width = "40px"
                 alt = page.profile.image
                 cache_bust = true 
               %}
