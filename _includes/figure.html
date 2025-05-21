@@ -10,7 +10,7 @@
       {% for i in site.imagemagick.widths -%}
       {{ img_path | relative_url }}-{{ i }}.webp {{i}}w,
       {% endfor -%}" 
-      {% if include.sizes %} sizes="{{include.sizes}}" {% else %} sizes="95vw" {% endif %}
+      {% if include.sizes %} sizes="{{include.sizes}}" {% else %} sizes="80px" {% endif %}
       type="image/webp"/>
     {% endif %}
     <img
