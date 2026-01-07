@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-IDT accepted to HPDC 2024.
+IDT was accepted to HPDC 2024.

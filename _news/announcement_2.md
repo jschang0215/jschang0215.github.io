@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Completed military service (ROKA).
+Completed mandatory military service (ROKA).
