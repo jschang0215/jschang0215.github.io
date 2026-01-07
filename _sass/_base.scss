@@ -193,7 +193,7 @@ ul.task-list input[type="checkbox"] {
 // Profile
 
 .profile {
-  width: 100%;
+  width: 40%; // reduced from 100% to avoid covering screen on mobile
 
   .more-info {
     margin-bottom: 5px;
