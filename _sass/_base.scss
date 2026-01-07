@@ -195,6 +195,12 @@ ul.task-list input[type="checkbox"] {
 .profile {
   width: 40%; // reduced from 100% to avoid covering screen on mobile
 
+  // Hide image on mobile
+  img,
+  figure {
+    display: none;
+  }
+
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
@@ -218,6 +224,12 @@ ul.task-list input[type="checkbox"] {
 @media (min-width: 576px) {
   .profile {
     width: 30%;
+
+    // Show image on desktop
+    img,
+    figure {
+      display: block;
+    }
 
     .address {
       p {
