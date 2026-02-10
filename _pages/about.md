@@ -17,5 +17,5 @@ social: true # includes social icons at the bottom of the page
 I am an undergraduate student majoring Computer Science and Engineering at Seoul National University. I was an undergraduate research intern at [SCALable Computer Architecture Laboratory](http://scale.snu.ac.kr/), Seoul National University, led by Prof. [Jung Ho Ahn](https://scale.snu.ac.kr/members). My research interests lie at the intersection of Computer Architecture and Operating Systems.
 
 
-*I will be joining Stanford University as an Electrical Engineering Ph.D. student starting Fall 2026!*
+*I will be joining Stanford University EE Ph.D. student starting Fall 2026!*
 
