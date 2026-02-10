@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Completed mandatory military service (ROKA).
+Completed mandatory military service (Republic of Korea Army).
