@@ -14,8 +14,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an undergraduate student majoring Computer Science and Engineering at Seoul National University. I was an undergraduate research intern at [SCALable Computer Architecture Laboratory](http://scale.snu.ac.kr/), Seoul National University, led by Prof. [Jung Ho Ahn](https://scale.snu.ac.kr/members). My research interests lie at the intersection of Computer Architecture and Operating Systems.
-
-
-*I will be joining Stanford University EE Ph.D. student starting Fall 2026!*
-
+I am an incoming Ph.D. student in Electrical Engineering at Stanford University. Currently, I am an undergraduate student in the Department of Computer Science and Engineering at Seoul National University. During my undergraduate studies, I had the great privilege of working on OS-level support for tiered main memory at the [SCALable Computer Architecture Laboratory](http://scale.snu.ac.kr/), led by Professor Jung Ho Ahn. My research interests lie in hardware-software co-design and systems support for emerging heterogeneous memory architectures.

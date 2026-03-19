@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be joining Stanford University as an EE Ph.D. student starting Fall 2026!
+I will be joining Stanford EE Ph.D. student starting Fall 2026!
