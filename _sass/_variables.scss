@@ -32,9 +32,18 @@ $grey-900: #212529;
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
+// Stanford Cardinal (primary brand red) — https://identity.stanford.edu/color
+$stanford-cardinal-color: #8c1515 !default;
+// Lighter mix for links/accents on dark backgrounds (readability)
+$stanford-cardinal-color-dark-theme: color.mix(
+  $stanford-cardinal-color,
+  $white-color,
+  32%
+) !default;
+
 // Theme colors
 
-$code-bg-color-light: rgba($purple-color, 0.05);
+$code-bg-color-light: rgba($stanford-cardinal-color, 0.06);
 $code-bg-color-dark: #2c3237 !default;
 
 // Font awesome location
