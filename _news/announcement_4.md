@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated from Seoul National University with a B.S. in Computer Science and Engineering, Summa Cum Laude.
+Graduated B.S. in Computer Science and Engineering from SNU (Summa Cum Laude).

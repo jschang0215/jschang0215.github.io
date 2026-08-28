@@ -2,7 +2,7 @@
 layout: post
 title: 미국 CS/ECE 박사 유학 지원 수기
 date: 2026-08-28 10:00:00
-description: 군 복무 중 준비한 미국 박사과정 지원 기록
+description: 미국 박사과정 지원 기록
 tags: PhD
 categories: personal
 toc:
