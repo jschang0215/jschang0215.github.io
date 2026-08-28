@@ -1,49 +1,50 @@
+- title: Research Interests
+  type: list
+  contents:
+    - Computer Architecture, Memory Systems, Emerging Memory Technologies, and Hardware/Software Co-design.
+
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor of Science
-      institution: Seoul National University, Dept. Computer Science and Engineering
+    - title: Ph.D. in Electrical Engineering
+      institution: Stanford University
       description:
-        - GPA. 4.16/4.30
+        - Advisor. Thierry Tambe
+      year: 2026.09 - Present
+    - title: B.S. in Computer Science and Engineering
+      institution: Seoul National University
+      description:
+        - GPA. 4.16/4.30 (Rank 3/110), Summa Cum Laude.
         - Including 18 months of mandatory military service (2024.07 - 2026.01).
       year: 2021.03 - 2026.08
     - title: Daegu Science High School
-      institution: 
+      institution:
       year: 2018.03 - 2021.02
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Undergraduate Research Intern
-      institution: Scalable Computer Architecture Lab, Seoul National University
+    - title: Tambe Lab
+      institution: Stanford University
+      year: 2026.03 - Present
+      description:
+        - Advisor. Thierry Tambe
+        - Research on a retention-aware heterogeneous SRAM/gain-cell eDRAM last-level cache for cloud platforms (under review).
+        - Research on profile-guided composition and placement for heterogeneous SRAM/gain-cell eDRAM accelerator scratchpads (under review).
+        - Research on retention-robust low-precision number formats and a reconfigurable multi-precision systolic array in HLS for video diffusion transformer accelerators (under review).
+    - title: Scalable Computer Architecture Lab
+      institution: Seoul National University
       year: 2023.01 - 2024.06
       description:
         - Advisor. Jung Ho Ahn
-        - Proposed reinforcement learning-based OS-level multi-tiered memory management solution.
-        - Accepted to HPDC 2024 (Acceptance rate 17%).
-    - title: Undergraduate Research Intern
-      institution: AI-SoC Lab, Kyungpook National University
+        - Research on RL-based OS-level multi-tiered memory management, achieving a 2.08x speedup over the default Linux kernel (first-author paper at HPDC 2024, 17% acceptance rate).
+    - title: AI-SoC Lab
+      institution: Kyungpook National University
       year: 2019.03 - 2022.10
       description:
         - Advisor. Daejin Park
         - Proposed ensemble reinforcement learning model for LLVM transform passes sequence optimization for runtime memory profile reduction (EMSOFT 2023 WiP).
         - Proposed data-analysis-based online soft errors and control flow errors detection model for deep learning application (EMSOFT 2022 WiP).
-        
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2024.03 - 2026.08
-      items: 
-        - Semiconductor Specialized University Scholarship ($8,000 over three semesters)
-    - year: 2021.03 - 2026.08
-      items: 
-        - Presidential Science Scholarship (Full tuition and stipend for eight semesters, total $34,000)
-    - year: 2019.03 - 2021.02
-      items: 
-        - Hansung Scholarship ($8,000 over two years)
-    - year: 2021.02
-      items: 
-        - Alumni Association Award (Graduated with highest honors)
 
 - title: Relevant Courseworks
   type: nested_list
@@ -61,6 +62,28 @@
       items:
         - Abstract Algebra, Engineering Mathematics 2 (Probability), Linear & Non-linear Computation Models
         - Mathematical Foundations of Deep Neural Networks
+
+- title: Skills
+  type: list
+  contents:
+    - <b>Programming.</b> C++, C, Python, Verilog, Java, Bash, CUDA, PyTorch, TensorFlow, TFLite, RLLib
+    - <b>Tools.</b> SST, QEMU, SCALE-Sim, Catapult HLS, NVIDIA Nsight, Amaranth, LLVM, Linux kernel, DAMON
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2024.03 - 2026.08
+      items:
+        - Semiconductor Specialized University Scholarship ($8,000 over three semesters)
+    - year: 2021.03 - 2026.08
+      items:
+        - Presidential Science Scholarship (Full tuition and stipend for eight semesters, total $34,000)
+    - year: 2019.03 - 2021.02
+      items:
+        - Hansung Scholarship ($8,000 over two years)
+    - year: 2021.02
+      items:
+        - Alumni Association Award (Graduated with highest honors)
 
 - title: Military Service
   type: time_table

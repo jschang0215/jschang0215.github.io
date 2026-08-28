@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://en.snu.ac.kr/index.html'>Seoul National University</a>. Computer Science and Engineering
+subtitle: <a href='https://www.stanford.edu/'>Stanford University</a>. Electrical Engineering
 
 profile:
   align: right
@@ -14,4 +14,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an incoming Ph.D. student in Electrical Engineering at Stanford University. Currently, I am an undergraduate student in the Dept. of Computer Science and Engineering at Seoul National University. During my undergraduate studies, I was fortunate to work on OS-level support for tiered main memory, under the supervision of Prof. Jung Ho Ahn. My research focuses on hardware-software co-design for emerging heterogeneous memory architectures.
+I am a Ph.D. student in Electrical Engineering at Stanford University, advised by Prof. Thierry Tambe. I received my B.S. in Computer Science and Engineering from Seoul National University in 2026, graduating Summa Cum Laude. During my undergraduate studies, I was fortunate to work on OS-level support for tiered main memory, under the supervision of Prof. Jung Ho Ahn.
+
+My research interests span computer architecture, memory systems, emerging memory technologies, and HW/SW co-design.
